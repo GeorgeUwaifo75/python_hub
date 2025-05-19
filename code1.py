@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Create a figure with subplots
-fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(5, 4))  # 1 row, 2 columns
+fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(10, 4))  # 1 row, 2 columns
 
 # Plot 1
 x1 = np.array([0, 1, 2, 3])
