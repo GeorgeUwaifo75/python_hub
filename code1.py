@@ -18,4 +18,4 @@ ax.plot(xpoints, ypoints)
 st.pyplot(fig)
 
 # Optional: Add a title
-st.title('Simple Line Plot')
+st.title('Simple Line Plot2')
