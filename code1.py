@@ -12,7 +12,8 @@ st.title("Code test hub")
 ypoints = np.array([3, 8, 1, 10])
 
 fig, ax = plt.subplots()
-ax.plot(xpoints, ypoints)
+#ax.plot(xpoints, ypoints)
+ax.plot(ypoints)
 
 # Display the plot in Streamlit
 st.pyplot(fig)
