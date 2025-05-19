@@ -8,7 +8,7 @@ st.title("Code test hub")
 #xpoints = np.array([0, 6])
 #ypoints = np.array([0, 250])
 
-xpoints = np.array([1, 2, 6, 8])
+#xpoints = np.array([1, 2, 6, 8])
 ypoints = np.array([3, 8, 1, 10])
 
 fig, ax = plt.subplots()
