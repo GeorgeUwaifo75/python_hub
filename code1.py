@@ -24,4 +24,4 @@ plt.tight_layout()
 st.pyplot(fig)
 
 # Optional: Add a title to the Streamlit app
-st.header('Side-by-Side Plots')
+st.header('Side-by-Side Plots *')
