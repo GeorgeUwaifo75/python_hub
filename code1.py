@@ -18,4 +18,4 @@ ax.set_ylabel('Value')
 st.pyplot(fig)
 
 # Optional: Add Streamlit header
-st.header('Matplotlib Plot in Streamlit')
+st.header('Matplotlib Plot in Streamlit 1')
